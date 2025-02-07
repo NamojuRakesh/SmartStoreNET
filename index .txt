@@ -1,0 +1,4 @@
+Product Name: SmartStore Widget
+Category: Gadgets
+Price: $19.99
+Available Stock: 150
